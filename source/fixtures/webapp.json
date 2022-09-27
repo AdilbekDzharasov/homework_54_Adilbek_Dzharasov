@@ -1,0 +1,107 @@
+[
+{
+  "model": "webapp.product",
+  "pk": 15,
+  "fields": {
+    "name": "Наушники",
+    "description": "Наушники Samsung 01K",
+    "categories": 2,
+    "price": "40999.00",
+    "image": "https://openshop.uz/uploads/products/photos/5ENAXfv0jfHRfEmdk7Ub7Bj4rMlV8RrYM34FBHMM.jpeg",
+    "created_at": "2022-09-27T05:53:25.315Z",
+    "changed_at": "2022-09-27T05:53:25.315Z"
+  }
+},
+{
+  "model": "webapp.product",
+  "pk": 17,
+  "fields": {
+    "name": "Крем для рук",
+    "description": "Крем для рук Babor",
+    "categories": 3,
+    "price": "10599.00",
+    "image": "https://static.insales-cdn.com/images/products/1/5186/371045442/1657e80b40a516c314d2b3afcb0de891.jpg",
+    "created_at": "2022-09-27T06:03:29.051Z",
+    "changed_at": "2022-09-27T06:03:29.051Z"
+  }
+},
+{
+  "model": "webapp.product",
+  "pk": 18,
+  "fields": {
+    "name": "Лыжи Sport15",
+    "description": "Лыжи для детей Sport15",
+    "categories": 4,
+    "price": "25999.00",
+    "image": "https://klike.net/uploads/posts/2020-03/1584784906_6.jpg",
+    "created_at": "2022-09-27T06:07:33.905Z",
+    "changed_at": "2022-09-27T06:07:33.905Z"
+  }
+},
+{
+  "model": "webapp.product",
+  "pk": 19,
+  "fields": {
+    "name": "Стиральная машина LG",
+    "description": "Стиральная машина LG A1 DD",
+    "categories": 1,
+    "price": "214000.00",
+    "image": "https://object.pscloud.io/cms/cms/Photo/img_0_8_633_0.jpg",
+    "created_at": "2022-09-27T06:10:04.624Z",
+    "changed_at": "2022-09-27T06:10:04.624Z"
+  }
+},
+{
+  "model": "webapp.product",
+  "pk": 24,
+  "fields": {
+    "name": "Мужская рубашка ",
+    "description": "Мужская рубашка-куртка",
+    "categories": 1,
+    "price": "20999.00",
+    "image": "http://lamcdn.net/furfurmag.ru/post_image-image/aSFN9rXYF1tzzWU8s3dqWQ-article.jpg",
+    "created_at": "2022-09-27T10:42:52.116Z",
+    "changed_at": "2022-09-27T10:42:52.116Z"
+  }
+},
+{
+  "model": "webapp.category",
+  "pk": 1,
+  "fields": {
+    "name": "Бытовая техника",
+    "description": "Бытовая техника для дома"
+  }
+},
+{
+  "model": "webapp.category",
+  "pk": 2,
+  "fields": {
+    "name": "Электроника",
+    "description": "Электроника от А до Я"
+  }
+},
+{
+  "model": "webapp.category",
+  "pk": 3,
+  "fields": {
+    "name": "Красота и здоровье",
+    "description": "Красота и здоровье для мужчин и женщин"
+  }
+},
+{
+  "model": "webapp.category",
+  "pk": 4,
+  "fields": {
+    "name": "Спорт",
+    "description": "Спорт для всей семьи"
+  }
+},
+{
+  "model": "webapp.category",
+  "pk": 5,
+  "fields": {
+    "name": "Одежда",
+    "description": "Одежда для мужчин и женщин"
+  }
+}
+]
