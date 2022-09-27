@@ -53,15 +53,15 @@
 },
 {
   "model": "webapp.product",
-  "pk": 24,
+  "pk": 26,
   "fields": {
     "name": "Мужская рубашка ",
-    "description": "Мужская рубашка-куртка",
-    "categories": 1,
-    "price": "20999.00",
+    "description": "Мужская рубашка в клетку",
+    "categories": 5,
+    "price": "30000.00",
     "image": "http://lamcdn.net/furfurmag.ru/post_image-image/aSFN9rXYF1tzzWU8s3dqWQ-article.jpg",
-    "created_at": "2022-09-27T10:42:52.116Z",
-    "changed_at": "2022-09-27T10:42:52.116Z"
+    "created_at": "2022-09-27T11:20:32.223Z",
+    "changed_at": "2022-09-27T11:20:32.223Z"
   }
 },
 {
