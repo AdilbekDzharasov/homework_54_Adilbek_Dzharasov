@@ -17,6 +17,9 @@ My-Market-Product
           <div class="mb-2 text-muted">Category: {{ product.categories.name }}</div>
           <h5 class="mb-2">Price: {{ product.price }}</h5>
           <p class="card-text mb-auto">{{ product.description }}</p>
+          <div class="mb-4" >
+            <a href="{% url 'product_delete' product.pk %}" class="btn btn-sm btn-outline-secondary">Delete</a>
+          </div>
           <small class="text-muted">Added: {{ product.created_at }}</small>
         </div>
       </div>
